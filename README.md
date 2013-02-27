@@ -1,4 +1,4 @@
 openQUI
 =======
 ***
-openQUI is a open UI framework written with QML and JavaScript.
+openQUI is an open source UI framework written with QML and JavaScript.
